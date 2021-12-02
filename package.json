@@ -10,6 +10,9 @@
     "download",
     "fetch"
   ],
+  "publishConfig": {
+    "registry": "https://pkgs.dev.azure.com/FenetreBV/34ec6cde-b79b-4ced-ae99-4988858e0c1c/_packaging/Fenetre.SiliconCore/npm/registry/"
+  },
   "description": "Download tool for Unicode CLDR JSON data",
   "homepage": "https://github.com/rxaviers/cldr-data-downloader",
   "repository": {
